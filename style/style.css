@@ -1,0 +1,6 @@
+@media screen and (max-width: 1024px) {
+    .res_tail {
+        transform: scaleY(0);
+        height: 12px;
+    }
+  }
