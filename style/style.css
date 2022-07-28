@@ -15,6 +15,10 @@
 .showmore {
     width: 200px;
 }
+.Accodian{
+    width: 500px;
+    margin: auto;
+}
 
 @media (max-width: 500px) {
     .set-height {
