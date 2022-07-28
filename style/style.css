@@ -15,22 +15,28 @@
 .showmore {
     width: 200px;
 }
-.Accodian{
-    width: 500px;
+
+.Accodian {
+    width: 700px;
     margin: auto;
 }
-.fotter{
+
+.fotter {
     width: 300px;
     margin: auto;
 }
-.icon a{
+
+.icon a {
     font-size: 25px;
 }
+
 @media (max-width: 500px) {
     .set-height {
         bottom: -0.75rem;
     }
 }
+
+
 
 @media (max-width: 750px) {
     .goup {
@@ -53,6 +59,9 @@
     .img_div {
         width: 100% !important;
     }
+    .Accodian{
+        width: 100%;
+    }
 }
 
 @media (max-width: 992px) {
@@ -63,13 +72,16 @@
     .mainrow {
         gap: 20px;
     }
-    .ready{
+
+    .ready {
         flex-direction: column;
     }
-    .mready{
+
+    .mready {
         text-align: center !important;
     }
-    .company{
+
+    .company {
         display: none;
     }
 }
