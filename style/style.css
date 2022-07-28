@@ -5,6 +5,7 @@
 .pad-l{
     padding-left: 20px;
 }
+
 @media (max-width: 992px) { 
     .full{width: 100% !important;}
  }
