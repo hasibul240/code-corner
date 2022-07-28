@@ -63,4 +63,7 @@
     .mready{
         text-align: center !important;
     }
+    .company{
+        display: none;
+    }
 }
