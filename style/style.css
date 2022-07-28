@@ -19,7 +19,13 @@
     width: 500px;
     margin: auto;
 }
-
+.fotter{
+    width: 300px;
+    margin: auto;
+}
+.icon a{
+    font-size: 25px;
+}
 @media (max-width: 500px) {
     .set-height {
         bottom: -0.75rem;
